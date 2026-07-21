@@ -8,9 +8,9 @@
 
 - 🎓 **Seoul National University** — Integrative Data Science, Math, Musicology, CSE & Intelligent Semiconductor System (alias: ECE)
 - 🔬 **MLSYS Lab Undergraduate Intern** — diffusion models, LoRA, GPU memory & efficient training
-- 💻 **Software & Algorithms** — C++, Python, TypeScript, React, Next.js, Node.js, PostgreSQL
+- 💻 **Software & Algorithms** — C++, Python, TypeScript, React, Next.js, Node.js, PostgreSQL, ML Agent
 - 🏅 **Competitive Programming** — Codeforces Candidate Master · BOJ Diamond III
-- 🎸 **Music** — 동인 음악 작곡, 밴드 리더·보컬, 가끔 기타와 믹싱
+- 🎸 **Music** — 동인 음악 작곡, 기타 및 보컬, 키보드 메인 / 베이스와 드럼 서브, 가끔씩 밴드 공연
 - 🀄 **Mahjong** — 한국마작연맹 프로 작사, 작성1
 
 ## 조금 진지한 이야기
